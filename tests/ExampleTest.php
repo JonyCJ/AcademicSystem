@@ -17,3 +17,5 @@ class ExampleTest extends TestCase
              ->see('Laravel 5');
     }
 }
+
+/** Edit for Jony */
